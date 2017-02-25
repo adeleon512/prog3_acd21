@@ -1,0 +1,5 @@
+The three line segments are: 3 cm, 4 cm, 5 cm.
+It is a scalene triangle.
+The perimeter is: 12 cm.
+The area of the triangle is:6 sq cm.
+It is a right triangle.
